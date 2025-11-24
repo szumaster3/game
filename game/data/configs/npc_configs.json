@@ -3823,7 +3823,7 @@
     "examine": "A Zamorakian human cleric.",
     "start_gfx": "99",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "422",
     "attack_speed": "4",
     "respawn_delay": "150",
@@ -3850,7 +3850,7 @@
     "examine": "A Zamorakian human cleric.",
     "start_gfx": "99",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "422",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -3877,7 +3877,7 @@
     "examine": "A Zamorakian human cleric.",
     "start_gfx": "99",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "422",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -5346,7 +5346,7 @@
     "examine": "Intimidating!",
     "start_gfx": "99",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "0",
     "attack_speed": "6",
     "respawn_delay": "60",
@@ -5861,7 +5861,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5873,7 +5873,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5885,7 +5885,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5897,7 +5897,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5909,7 +5909,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5921,7 +5921,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5933,7 +5933,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5945,7 +5945,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5957,7 +5957,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5969,7 +5969,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5981,7 +5981,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -5993,7 +5993,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6005,7 +6005,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6017,7 +6017,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6041,7 +6041,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6053,7 +6053,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6065,7 +6065,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6077,7 +6077,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6089,7 +6089,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6101,7 +6101,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6113,7 +6113,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6125,7 +6125,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6137,7 +6137,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6149,7 +6149,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6161,7 +6161,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot",
     "defence_level": "1",
     "safespot": null,
@@ -6173,7 +6173,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "She looks concerned.",
     "name": "Elena",
     "defence_level": "1",
     "safespot": null,
@@ -6357,7 +6357,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "He tries to keep order around here.",
     "combat_audio": "511,513,512",
     "magic_level": "1",
     "name": "Guard",
@@ -11689,7 +11689,7 @@
     "examine": "Keeps order in the ranging guild.",
     "combat_style": "1",
     "start_gfx": "19",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "attack_speed": "6",
     "magic_animation": "426",
@@ -11861,7 +11861,7 @@
     "examine": "Defender of the north tower.",
     "combat_style": "1",
     "start_gfx": "19",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -11888,7 +11888,7 @@
     "examine": "Defender of the north tower.",
     "combat_style": "1",
     "start_gfx": "19",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -11915,7 +11915,7 @@
     "examine": "Defender of the north tower.",
     "combat_style": "1",
     "start_gfx": "19",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -11942,7 +11942,7 @@
     "examine": "Defender of the north tower.",
     "combat_style": "1",
     "start_gfx": "19",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -17357,7 +17357,7 @@
     "examine": "A Zamorakian human cleric.",
     "combat_style": "2",
     "start_gfx": "99",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "422",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -17385,7 +17385,7 @@
     "examine": "A Zamorakian human cleric.",
     "combat_style": "2",
     "start_gfx": "99",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "422",
     "attack_speed": "4",
     "respawn_delay": "60",
@@ -17854,7 +17854,7 @@
     "examine": "A Burthorpe Castle Archer.",
     "combat_style": "1",
     "start_gfx": "19",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "range_animation": "426",
     "magic_level": "1",
@@ -28412,7 +28412,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "An old",
+    "examine": "An old, cranky lady.",
     "melee_animation": "0",
     "range_animation": "0",
     "magic_level": "1",
@@ -33604,7 +33604,7 @@
     "examine": "A vengeful spirit corrupted by dark magic.",
     "start_gfx": "155",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "1162",
     "range_animation": "1162",
     "attack_speed": "5",
@@ -44067,7 +44067,7 @@
     "examine": "Caution: HOT!",
     "start_gfx": "99",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "414",
     "range_animation": "0",
     "attack_speed": "4",
@@ -44093,7 +44093,7 @@
     "examine": "Hydro-power!",
     "combat_style": "2",
     "start_gfx": "93",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "414",
     "range_animation": "0",
     "attack_speed": "4",
@@ -44118,7 +44118,7 @@
     "examine": "His hands are covered in mud. At least, I hope that's mud.",
     "start_gfx": "96",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "414",
     "range_animation": "0",
     "attack_speed": "4",
@@ -44144,7 +44144,7 @@
     "examine": "At least he looks solid enough to fight.",
     "start_gfx": "90",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "414",
     "range_animation": "0",
     "attack_speed": "4",
@@ -72835,7 +72835,7 @@
     "examine": "A practicer of dark arts.",
     "start_gfx": "93",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "810",
     "range_animation": "0",
     "combat_audio": "511,513,512",
@@ -72861,7 +72861,7 @@
     "examine": "A practicer of dark arts.",
     "start_gfx": "96",
     "combat_style": "2",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "810",
     "range_animation": "0",
     "combat_audio": "511,513,512",
@@ -91005,7 +91005,7 @@
     "examine": "He looks pretty skilled with that bow.",
     "combat_style": "1",
     "start_gfx": "19",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "attack_speed": "6",
     "weakness": "0",
@@ -96728,7 +96728,7 @@
     "examine": "Defender of Zamorak.",
     "start_gfx": "18",
     "combat_style": "1",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "range_animation": "426",
     "magic_level": "1",
@@ -97577,7 +97577,7 @@
     "examine": "Defender of Zamorak.",
     "start_gfx": "18",
     "combat_style": "1",
-    "start_height": "96",
+    "start_height": "92",
     "melee_animation": "426",
     "range_animation": "426",
     "magic_level": "1",
