@@ -20,12 +20,7 @@ It allows you to play without connecting to any online servers. Ideal for **modd
     - Avoid paths with spaces (e.g., `C:\Users\My Name\Documents\`).
     - Use simple paths like `C:\Singleplayer` or Desktop.
 
-2. **Explore the folder structure**
-    - `server/` – contains server scripts and configuration files
-    - `client/` – game client ready to launch
-    - `data/` – world data, player saves, and economy info
-
-3. **Run the server**
+2. **Run the server**
    ```bash
    # Windows
    run-server.bat
@@ -35,7 +30,7 @@ It allows you to play without connecting to any online servers. Ideal for **modd
    ```
    > Wait until the console shows: `Server is listening on port 43594`.
 
-4. **Launch the client**
+3. **Launch the client**
    ```bash
    # Windows
    run-client.bat
