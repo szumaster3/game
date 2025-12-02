@@ -1,6 +1,6 @@
 <a href="https://gitlab.com/openscape/openscape">Open-530</a>
 
-Singleplayer package is a fully self-contained, cross-platform release of the RuneScape experience based on the 2009Scape fork with the latest updates and improvements.  
+Singleplayer package is a fully self-contained, cross-platform release of the RuneScape experience based on the <a href="https://gitlab.com/2009scape/singleplayer/windows">2009Scape</a> fork with the latest updates and improvements.  
 It allows you to play without connecting to any online servers. Ideal for **modding**, **experimentation**, or simply reliving the experience privately.
 
 ---
