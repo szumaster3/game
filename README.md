@@ -81,11 +81,12 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 2. Move it to `game/plugins/`
 3. Launch the client – the plugin will **load automatically**
 
+> [!TIP]
 > Plugins can enhance your experience by:
-> Adding xp drops & globes<br>
-> Identify clue scroll difficulty<br>
-> Remember login<br>
-> Slayer tracker and much more.
+> - Adding xp drops & globes
+> - Identify clue scrolls difficulty
+> - Remember login<br>
+> - Slayer tracking and much more.
 
 ---
 
