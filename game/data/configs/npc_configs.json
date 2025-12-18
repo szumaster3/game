@@ -26858,7 +26858,7 @@
     "defence_animation": "9455",
     "slayer_exp": "105",
     "magic_animation": "1516",
-    "death_animation": "1518",
+    "death_animation": "9513",
     "name": "Gargoyle",
     "defence_level": "107",
     "safespot": null,
@@ -30643,7 +30643,7 @@
     "defence_animation": "9455",
     "slayer_exp": "105",
     "magic_animation": "1516",
-    "death_animation": "1518",
+    "death_animation": "9513",
     "name": "Gargoyle",
     "defence_level": "107",
     "safespot": null,
@@ -40030,10 +40030,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This support is propping the door closed.",
     "name": "Door-support",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "attack_speed": "0",
     "id": "2440",
@@ -40043,10 +40044,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This door seems to have a weak point.",
     "name": "Door",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "id": "2441",
     "aggressive": "false",
@@ -40055,10 +40057,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This door seems to have a weak point.",
     "name": "Door",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "id": "2442",
     "aggressive": "false",
@@ -40067,7 +40070,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This support is propping the door closed.",
     "melee_animation": "0",
     "range_animation": "0",
     "attack_speed": "0",
@@ -40078,7 +40081,7 @@
     "name": "Door-support",
     "defence_level": "1",
     "safespot": null,
-    "lifepoints": "0",
+    "lifepoints": "1",
     "strength_level": "1",
     "id": "2443",
     "aggressive": "false",
@@ -40086,10 +40089,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This door seems to have a weak point.",
     "name": "Door",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "id": "2444",
     "aggressive": "false",
@@ -40098,10 +40102,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This door seems to have a weak point.",
     "name": "Door",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "id": "2445",
     "aggressive": "false",
@@ -40110,10 +40115,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This support is propping the door closed.",
     "name": "Door-support",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "attack_speed": "0",
     "id": "2446",
@@ -40123,10 +40129,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This door seems to have a weak point.",
     "name": "Door",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "id": "2447",
     "aggressive": "false",
@@ -40135,10 +40142,11 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "This door seems to have a weak point.",
     "name": "Door",
     "defence_level": "1",
     "safespot": null,
+    "lifepoints": "1",
     "strength_level": "1",
     "id": "2448",
     "aggressive": "false",
