@@ -1,10 +1,5 @@
 530-Runescape-Singleplayer-Server-Emulation
 
-Base forked from <a href="https://gitlab.com/2OO9scape/singleplayer/windows">2009Scape</a>
-
-
-
-
 Singleplayer package is a fully self-contained, cross-platform release of the RuneScape experience.  
 It allows you to play without connecting to any online servers. Ideal for **modding**, **experimentation**, or simply reliving the experience privately.
 
@@ -123,3 +118,6 @@ Singleplayer/
 > 5. Edit configs if needed (`default.conf`, `ge_autostock.json`)
 > 6. Add optional plugins in `game/plugins/`
 
+### Aditional information
+
+- Base forked from <a href="https://gitlab.com/2009scape/singleplayer/windows">2009Scape</a>.
