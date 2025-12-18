@@ -1,7 +1,7 @@
 530-Runescape-Singleplayer-Server-Emulation
 
 
-![](https://imgur.com/SWsDtm1)
+![](https://imgur.com/SWsDtm1.png)
 
 Singleplayer package is a fully self-contained, cross-platform release of the RuneScape experience.  
 It allows you to play without connecting to any online servers. Ideal for **modding**, **experimentation**, or simply reliving the experience privately.
