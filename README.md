@@ -20,7 +20,7 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 
 ### Setup Instructions
 
-1. **Download this repository and extract the package**
+1. **Download [this repository](https://github.com/szumaster3/530-singleplayer/archive/refs/heads/master.zip) and extract the package**
     - Avoid paths with spaces (e.g., `C:\Users\My Name\Documents\`).
     - Use simple paths like `C:\Singleplayer` or Desktop.
 
