@@ -57,7 +57,7 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 
   > Default value: `exp_multiplier = 1.0` This is the global experience rate used by the server.
   > Per-player experience rate (save-based):
-  > You can override the experience rate for a specific player by editing their save file.
+  > You can override the experience rate by editing the player save file.
 
 #### Steps:
 
@@ -67,9 +67,7 @@ It allows you to play without connecting to any online servers. Ideal for **modd
   > Locate the following field: `"exp_multiplier": 1.0` and change the value to your desired rate.
   > Save the file and log back into the game.
 
-This change affects only the selected player and does not require a server restart.
-
-[!INFO]
+> [!NOTE] 
 This change affects only the selected player and does not require a server restart.
 
 - **Grand Exchange autostock:**
