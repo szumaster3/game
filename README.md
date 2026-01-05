@@ -1,7 +1,7 @@
 530-Runescape-Singleplayer-Server-Emulation
 
 
-![](https://imgur.com/0UWgSWc.png)
+![](welcome.png)
 
 Singleplayer package is a fully self-contained, cross-platform release of the RuneScape experience.  
 It allows you to play without connecting to any online servers. Ideal for **modding**, **experimentation**, or simply reliving the experience privately.
@@ -13,7 +13,6 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 - **Pre-configured server and client** – ready to run out-of-the-box.
 - **Default world data** – a working world with standard NPCs, skills, and economy.
 - **Optional plugins** – client and server enhancements to extend gameplay.
-- **Offline mode** – no internet connection required after initial setup.
 - **Editor-530** – modify items, NPCs, and objects to customize the game.
 
 ---
@@ -32,7 +31,7 @@ It allows you to play without connecting to any online servers. Ideal for **modd
    # Linux/Mac
    ./run-server.sh
    ```
-   > Wait until the console shows: `Server is listening on port 43594`.
+   > Wait until the console shows: `[00:00:00]: [Server] RuneScape started in [Number] milliseconds.`.
 
 3. **Launch the client**
    ```bash
@@ -53,6 +52,25 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 
 - **Main config file:** `game/worldprops/default.conf`
   > After saving changes, **restart the server** for changes to take effect.
+
+- **Experience rate:**
+
+  > Default value: `exp_multiplier = 1.0` This is the global experience rate used by the server.
+  > Per-player experience rate (save-based):
+  > You can override the experience rate for a specific player by editing their save file.
+
+#### Steps:
+
+1. Log out of the game (make sure the player is fully saved).
+
+2. Open the player save file: `game/data/players/`<your_username>.json
+  > Locate the following field: `"exp_multiplier": 1.0` and change the value to your desired rate.
+  > Save the file and log back into the game.
+
+This change affects only the selected player and does not require a server restart.
+
+[!INFO]
+This change affects only the selected player and does not require a server restart.
 
 - **Grand Exchange autostock:**
     - Default items added on server start are located in:  
