@@ -13,7 +13,6 @@ It allows you to play without connecting to any online servers. Ideal for **modd
 - **Pre-configured server and client** – ready to run out-of-the-box.
 - **Default world data** – a working world with standard NPCs, skills, and economy.
 - **Optional plugins** – client and server enhancements to extend gameplay.
-- **Editor-530** – modify items, NPCs, and objects to customize the game.
 
 ---
 
